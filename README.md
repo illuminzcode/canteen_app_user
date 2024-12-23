@@ -15,8 +15,8 @@ The **Canteen User App** is designed to help employees streamline the process of
 
 ## Prerequisites  
 Before you begin, ensure you have the following installed:  
-- **Node.js**: v14.x or later  
-- **npm** or **yarn**  
+- **Node.js**: v18.x   
+- **npm**  
 - **React Native CLI**  
 - Android Studio and/or Xcode for emulators (or a physical device)  
 
